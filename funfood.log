@@ -1,0 +1,272 @@
+2022-02-19 23:23:34,119 INFO:URL for category https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:23:34,120 INFO:Base file name for write https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:23:34,121 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:23:35,247 DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:23:35,256 INFO:Page https://dixy.ru/catalog/molochnaya-gastronomiya/?sPAGEN_1=0 answered 200
+2022-02-19 23:23:35,263 INFO:File data/molochnaya-gastronomiya_0 writing on disk
+2022-02-19 23:24:50,845 INFO:URL for category https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:24:50,845 INFO:Base file name for write https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:24:50,846 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:24:51,686 DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:24:51,700 INFO:Page https://dixy.ru/catalog/molochnaya-gastronomiya/?sPAGEN_1=0 answered 200
+2022-02-19 23:24:51,701 INFO:File data/molochnaya-gastronomiya_0 writing on disk
+2022-02-19 23:25:43,177 INFO:URL for category https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:25:43,177 INFO:Base file name for write https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:25:43,178 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:25:44,010 DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:25:44,049 INFO:Page https://dixy.ru/catalog/molochnaya-gastronomiya/?sPAGEN_1=0 answered 200
+2022-02-19 23:25:44,051 INFO:File data/molochnaya-gastronomiya_0 writing on disk
+2022-02-19 23:26:15,064 INFO:URL for category https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:26:15,064 INFO:Base file name for write https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:26:15,067 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:15,822 DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:26:15,848 INFO:Page https://dixy.ru/catalog/molochnaya-gastronomiya/?sPAGEN_1=0 answered 200
+2022-02-19 23:26:15,849 INFO:File data/molochnaya-gastronomiya_0 writing on disk
+2022-02-19 23:26:15,849 ERROR:File  data/molochnaya-gastronomiya_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/molochnaya-gastronomiya_-1'
+2022-02-19 23:26:15,893 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:16,786 DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:26:16,817 INFO:Page https://dixy.ru/catalog/molochnaya-gastronomiya/?sPAGEN_1=1 answered 200
+2022-02-19 23:26:16,818 INFO:File data/molochnaya-gastronomiya_1 writing on disk
+2022-02-19 23:26:16,972 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:17,930 DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:26:17,939 INFO:Page https://dixy.ru/catalog/molochnaya-gastronomiya/?sPAGEN_1=2 answered 200
+2022-02-19 23:26:17,940 INFO:File data/molochnaya-gastronomiya_2 writing on disk
+2022-02-19 23:26:18,029 INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:26:18,079 INFO:URL for category https://dixy.ru/catalog/ovoshchi-i-frukty/
+2022-02-19 23:26:18,079 INFO:Base file name for write https://dixy.ru/catalog/ovoshchi-i-frukty/
+2022-02-19 23:26:18,080 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:18,911 DEBUG:https://dixy.ru:443 "GET /catalog/ovoshchi-i-frukty/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:26:18,913 INFO:Page https://dixy.ru/catalog/ovoshchi-i-frukty/?sPAGEN_1=0 answered 200
+2022-02-19 23:26:18,913 INFO:File data/ovoshchi-i-frukty_0 writing on disk
+2022-02-19 23:26:18,914 ERROR:File  data/ovoshchi-i-frukty_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/ovoshchi-i-frukty_-1'
+2022-02-19 23:26:18,957 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:19,759 DEBUG:https://dixy.ru:443 "GET /catalog/ovoshchi-i-frukty/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:26:19,761 INFO:Page https://dixy.ru/catalog/ovoshchi-i-frukty/?sPAGEN_1=1 answered 200
+2022-02-19 23:26:19,761 INFO:File data/ovoshchi-i-frukty_1 writing on disk
+2022-02-19 23:26:19,848 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:20,677 DEBUG:https://dixy.ru:443 "GET /catalog/ovoshchi-i-frukty/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:26:20,679 INFO:Page https://dixy.ru/catalog/ovoshchi-i-frukty/?sPAGEN_1=2 answered 200
+2022-02-19 23:26:20,681 INFO:File data/ovoshchi-i-frukty_2 writing on disk
+2022-02-19 23:26:20,810 INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:26:20,857 INFO:URL for category https://dixy.ru/catalog/myaso-yaytso/
+2022-02-19 23:26:20,858 INFO:Base file name for write https://dixy.ru/catalog/myaso-yaytso/
+2022-02-19 23:26:20,858 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:22,087 DEBUG:https://dixy.ru:443 "GET /catalog/myaso-yaytso/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:26:22,138 INFO:Page https://dixy.ru/catalog/myaso-yaytso/?sPAGEN_1=0 answered 200
+2022-02-19 23:26:22,138 INFO:File data/myaso-yaytso_0 writing on disk
+2022-02-19 23:26:22,139 ERROR:File  data/myaso-yaytso_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/myaso-yaytso_-1'
+2022-02-19 23:26:22,176 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:23,070 DEBUG:https://dixy.ru:443 "GET /catalog/myaso-yaytso/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:26:23,089 INFO:Page https://dixy.ru/catalog/myaso-yaytso/?sPAGEN_1=1 answered 200
+2022-02-19 23:26:23,089 INFO:File data/myaso-yaytso_1 writing on disk
+2022-02-19 23:26:23,216 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:24,010 DEBUG:https://dixy.ru:443 "GET /catalog/myaso-yaytso/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:26:24,013 INFO:Page https://dixy.ru/catalog/myaso-yaytso/?sPAGEN_1=2 answered 200
+2022-02-19 23:26:24,014 INFO:File data/myaso-yaytso_2 writing on disk
+2022-02-19 23:26:24,132 INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:26:24,173 INFO:URL for category https://dixy.ru/catalog/krupy-zavtraki-spetsii/
+2022-02-19 23:26:24,173 INFO:Base file name for write https://dixy.ru/catalog/krupy-zavtraki-spetsii/
+2022-02-19 23:26:24,174 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:25,064 DEBUG:https://dixy.ru:443 "GET /catalog/krupy-zavtraki-spetsii/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:26:25,073 INFO:Page https://dixy.ru/catalog/krupy-zavtraki-spetsii/?sPAGEN_1=0 answered 200
+2022-02-19 23:26:25,074 INFO:File data/krupy-zavtraki-spetsii_0 writing on disk
+2022-02-19 23:26:25,074 ERROR:File  data/krupy-zavtraki-spetsii_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/krupy-zavtraki-spetsii_-1'
+2022-02-19 23:26:25,166 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:26,148 DEBUG:https://dixy.ru:443 "GET /catalog/krupy-zavtraki-spetsii/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:26:26,151 INFO:Page https://dixy.ru/catalog/krupy-zavtraki-spetsii/?sPAGEN_1=1 answered 200
+2022-02-19 23:26:26,152 INFO:File data/krupy-zavtraki-spetsii_1 writing on disk
+2022-02-19 23:26:26,294 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:27,124 DEBUG:https://dixy.ru:443 "GET /catalog/krupy-zavtraki-spetsii/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:26:27,174 INFO:Page https://dixy.ru/catalog/krupy-zavtraki-spetsii/?sPAGEN_1=2 answered 200
+2022-02-19 23:26:27,175 INFO:File data/krupy-zavtraki-spetsii_2 writing on disk
+2022-02-19 23:26:27,260 INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:26:27,311 INFO:URL for category https://dixy.ru/catalog/konditerskie-izdeliya/
+2022-02-19 23:26:27,311 INFO:Base file name for write https://dixy.ru/catalog/konditerskie-izdeliya/
+2022-02-19 23:26:27,312 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:28,262 DEBUG:https://dixy.ru:443 "GET /catalog/konditerskie-izdeliya/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:26:28,264 INFO:Page https://dixy.ru/catalog/konditerskie-izdeliya/?sPAGEN_1=0 answered 200
+2022-02-19 23:26:28,265 INFO:File data/konditerskie-izdeliya_0 writing on disk
+2022-02-19 23:26:28,266 ERROR:File  data/konditerskie-izdeliya_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/konditerskie-izdeliya_-1'
+2022-02-19 23:26:28,406 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:29,260 DEBUG:https://dixy.ru:443 "GET /catalog/konditerskie-izdeliya/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:26:29,276 INFO:Page https://dixy.ru/catalog/konditerskie-izdeliya/?sPAGEN_1=1 answered 200
+2022-02-19 23:26:29,277 INFO:File data/konditerskie-izdeliya_1 writing on disk
+2022-02-19 23:26:29,365 DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:26:30,307 DEBUG:https://dixy.ru:443 "GET /catalog/konditerskie-izdeliya/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:26:30,312 INFO:Page https://dixy.ru/catalog/konditerskie-izdeliya/?sPAGEN_1=2 answered 200
+2022-02-19 23:26:30,313 INFO:File data/konditerskie-izdeliya_2 writing on disk
+2022-02-19 23:26:30,447 INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:35:29,772 __main__ INFO:URL for category https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:35:29,773 __main__ INFO:Base file name for write https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:35:29,777 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:30,689 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:35:30,691 dixy_get INFO:Page https://dixy.ru/catalog/molochnaya-gastronomiya/?sPAGEN_1=0 answered 200
+2022-02-19 23:35:30,692 dixy_get INFO:File data/molochnaya-gastronomiya_0 writing on disk
+2022-02-19 23:35:30,693 dixy_get ERROR:File  data/molochnaya-gastronomiya_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/molochnaya-gastronomiya_-1'
+2022-02-19 23:35:30,743 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:31,727 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:35:31,736 dixy_get INFO:Page https://dixy.ru/catalog/molochnaya-gastronomiya/?sPAGEN_1=1 answered 200
+2022-02-19 23:35:31,737 dixy_get INFO:File data/molochnaya-gastronomiya_1 writing on disk
+2022-02-19 23:35:31,880 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:32,822 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:35:32,834 dixy_get INFO:Page https://dixy.ru/catalog/molochnaya-gastronomiya/?sPAGEN_1=2 answered 200
+2022-02-19 23:35:32,835 dixy_get INFO:File data/molochnaya-gastronomiya_2 writing on disk
+2022-02-19 23:35:32,979 dixy_get INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:35:32,979 __main__ INFO:Read file data/molochnaya-gastronomiya_2
+2022-02-19 23:35:33,032 __main__ INFO:URL for category https://dixy.ru/catalog/ovoshchi-i-frukty/
+2022-02-19 23:35:33,032 __main__ INFO:Base file name for write https://dixy.ru/catalog/ovoshchi-i-frukty/
+2022-02-19 23:35:33,033 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:33,965 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/ovoshchi-i-frukty/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:35:33,973 dixy_get INFO:Page https://dixy.ru/catalog/ovoshchi-i-frukty/?sPAGEN_1=0 answered 200
+2022-02-19 23:35:33,974 dixy_get INFO:File data/ovoshchi-i-frukty_0 writing on disk
+2022-02-19 23:35:33,974 dixy_get ERROR:File  data/ovoshchi-i-frukty_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/ovoshchi-i-frukty_-1'
+2022-02-19 23:35:34,066 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:34,892 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/ovoshchi-i-frukty/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:35:34,894 dixy_get INFO:Page https://dixy.ru/catalog/ovoshchi-i-frukty/?sPAGEN_1=1 answered 200
+2022-02-19 23:35:34,896 dixy_get INFO:File data/ovoshchi-i-frukty_1 writing on disk
+2022-02-19 23:35:34,978 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:35,900 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/ovoshchi-i-frukty/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:35:35,904 dixy_get INFO:Page https://dixy.ru/catalog/ovoshchi-i-frukty/?sPAGEN_1=2 answered 200
+2022-02-19 23:35:35,904 dixy_get INFO:File data/ovoshchi-i-frukty_2 writing on disk
+2022-02-19 23:35:35,999 dixy_get INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:35:35,999 __main__ INFO:Read file data/ovoshchi-i-frukty_2
+2022-02-19 23:35:36,048 __main__ INFO:URL for category https://dixy.ru/catalog/myaso-yaytso/
+2022-02-19 23:35:36,048 __main__ INFO:Base file name for write https://dixy.ru/catalog/myaso-yaytso/
+2022-02-19 23:35:36,049 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:36,924 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/myaso-yaytso/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:35:36,939 dixy_get INFO:Page https://dixy.ru/catalog/myaso-yaytso/?sPAGEN_1=0 answered 200
+2022-02-19 23:35:36,940 dixy_get INFO:File data/myaso-yaytso_0 writing on disk
+2022-02-19 23:35:36,941 dixy_get ERROR:File  data/myaso-yaytso_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/myaso-yaytso_-1'
+2022-02-19 23:35:36,981 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:37,825 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/myaso-yaytso/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:35:37,836 dixy_get INFO:Page https://dixy.ru/catalog/myaso-yaytso/?sPAGEN_1=1 answered 200
+2022-02-19 23:35:37,836 dixy_get INFO:File data/myaso-yaytso_1 writing on disk
+2022-02-19 23:35:37,965 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:38,864 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/myaso-yaytso/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:35:38,866 dixy_get INFO:Page https://dixy.ru/catalog/myaso-yaytso/?sPAGEN_1=2 answered 200
+2022-02-19 23:35:38,867 dixy_get INFO:File data/myaso-yaytso_2 writing on disk
+2022-02-19 23:35:38,940 dixy_get INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:35:38,941 __main__ INFO:Read file data/myaso-yaytso_2
+2022-02-19 23:35:38,981 __main__ INFO:URL for category https://dixy.ru/catalog/krupy-zavtraki-spetsii/
+2022-02-19 23:35:38,981 __main__ INFO:Base file name for write https://dixy.ru/catalog/krupy-zavtraki-spetsii/
+2022-02-19 23:35:38,981 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:39,883 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/krupy-zavtraki-spetsii/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:35:39,914 dixy_get INFO:Page https://dixy.ru/catalog/krupy-zavtraki-spetsii/?sPAGEN_1=0 answered 200
+2022-02-19 23:35:39,915 dixy_get INFO:File data/krupy-zavtraki-spetsii_0 writing on disk
+2022-02-19 23:35:39,916 dixy_get ERROR:File  data/krupy-zavtraki-spetsii_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/krupy-zavtraki-spetsii_-1'
+2022-02-19 23:35:40,006 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:40,931 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/krupy-zavtraki-spetsii/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:35:40,933 dixy_get INFO:Page https://dixy.ru/catalog/krupy-zavtraki-spetsii/?sPAGEN_1=1 answered 200
+2022-02-19 23:35:40,933 dixy_get INFO:File data/krupy-zavtraki-spetsii_1 writing on disk
+2022-02-19 23:35:41,021 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:41,976 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/krupy-zavtraki-spetsii/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:35:41,980 dixy_get INFO:Page https://dixy.ru/catalog/krupy-zavtraki-spetsii/?sPAGEN_1=2 answered 200
+2022-02-19 23:35:41,980 dixy_get INFO:File data/krupy-zavtraki-spetsii_2 writing on disk
+2022-02-19 23:35:42,068 dixy_get INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:35:42,068 __main__ INFO:Read file data/krupy-zavtraki-spetsii_2
+2022-02-19 23:35:42,118 __main__ INFO:URL for category https://dixy.ru/catalog/konditerskie-izdeliya/
+2022-02-19 23:35:42,118 __main__ INFO:Base file name for write https://dixy.ru/catalog/konditerskie-izdeliya/
+2022-02-19 23:35:42,119 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:43,119 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/konditerskie-izdeliya/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:35:43,121 dixy_get INFO:Page https://dixy.ru/catalog/konditerskie-izdeliya/?sPAGEN_1=0 answered 200
+2022-02-19 23:35:43,122 dixy_get INFO:File data/konditerskie-izdeliya_0 writing on disk
+2022-02-19 23:35:43,122 dixy_get ERROR:File  data/konditerskie-izdeliya_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/konditerskie-izdeliya_-1'
+2022-02-19 23:35:43,233 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:44,640 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/konditerskie-izdeliya/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:35:44,659 dixy_get INFO:Page https://dixy.ru/catalog/konditerskie-izdeliya/?sPAGEN_1=1 answered 200
+2022-02-19 23:35:44,660 dixy_get INFO:File data/konditerskie-izdeliya_1 writing on disk
+2022-02-19 23:35:44,747 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:35:45,784 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/konditerskie-izdeliya/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:35:45,971 dixy_get INFO:Page https://dixy.ru/catalog/konditerskie-izdeliya/?sPAGEN_1=2 answered 200
+2022-02-19 23:35:45,972 dixy_get INFO:File data/konditerskie-izdeliya_2 writing on disk
+2022-02-19 23:35:46,059 dixy_get INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:35:46,060 __main__ INFO:Read file data/konditerskie-izdeliya_2
+2022-02-19 23:41:49,652 __main__ INFO:URL for category https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:41:49,652 __main__ INFO:Base file name for write https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:41:49,654 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:41:50,627 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:42:27,466 __main__ INFO:URL for category https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:42:27,467 __main__ INFO:Base file name for write https://dixy.ru/catalog/molochnaya-gastronomiya/
+2022-02-19 23:42:27,470 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:28,477 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:42:28,492 dixy_get INFO:Page https://dixy.ru/catalog/molochnaya-gastronomiya/?sPAGEN_1=0 answered 200
+2022-02-19 23:42:28,494 dixy_get INFO:File data/molochnaya-gastronomiya_0 writing on disk
+2022-02-19 23:42:28,494 dixy_get ERROR:File  data/molochnaya-gastronomiya_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/molochnaya-gastronomiya_-1'
+2022-02-19 23:42:28,586 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:29,390 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:42:29,392 dixy_get INFO:Page https://dixy.ru/catalog/molochnaya-gastronomiya/?sPAGEN_1=1 answered 200
+2022-02-19 23:42:29,393 dixy_get INFO:File data/molochnaya-gastronomiya_1 writing on disk
+2022-02-19 23:42:29,494 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:30,445 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/molochnaya-gastronomiya/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:42:30,446 dixy_get INFO:Page https://dixy.ru/catalog/molochnaya-gastronomiya/?sPAGEN_1=2 answered 200
+2022-02-19 23:42:30,447 dixy_get INFO:File data/molochnaya-gastronomiya_2 writing on disk
+2022-02-19 23:42:30,532 dixy_get INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:42:30,532 __main__ INFO:Read file data/molochnaya-gastronomiya_2
+2022-02-19 23:42:30,582 __main__ INFO:URL for category https://dixy.ru/catalog/ovoshchi-i-frukty/
+2022-02-19 23:42:30,582 __main__ INFO:Base file name for write https://dixy.ru/catalog/ovoshchi-i-frukty/
+2022-02-19 23:42:30,582 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:31,420 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/ovoshchi-i-frukty/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:42:31,425 dixy_get INFO:Page https://dixy.ru/catalog/ovoshchi-i-frukty/?sPAGEN_1=0 answered 200
+2022-02-19 23:42:31,425 dixy_get INFO:File data/ovoshchi-i-frukty_0 writing on disk
+2022-02-19 23:42:31,426 dixy_get ERROR:File  data/ovoshchi-i-frukty_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/ovoshchi-i-frukty_-1'
+2022-02-19 23:42:31,468 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:32,188 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/ovoshchi-i-frukty/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:42:32,194 dixy_get INFO:Page https://dixy.ru/catalog/ovoshchi-i-frukty/?sPAGEN_1=1 answered 200
+2022-02-19 23:42:32,195 dixy_get INFO:File data/ovoshchi-i-frukty_1 writing on disk
+2022-02-19 23:42:32,286 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:33,131 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/ovoshchi-i-frukty/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:42:33,133 dixy_get INFO:Page https://dixy.ru/catalog/ovoshchi-i-frukty/?sPAGEN_1=2 answered 200
+2022-02-19 23:42:33,134 dixy_get INFO:File data/ovoshchi-i-frukty_2 writing on disk
+2022-02-19 23:42:33,218 dixy_get INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:42:33,218 __main__ INFO:Read file data/ovoshchi-i-frukty_2
+2022-02-19 23:42:33,266 __main__ INFO:URL for category https://dixy.ru/catalog/myaso-yaytso/
+2022-02-19 23:42:33,266 __main__ INFO:Base file name for write https://dixy.ru/catalog/myaso-yaytso/
+2022-02-19 23:42:33,267 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:34,106 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/myaso-yaytso/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:42:34,108 dixy_get INFO:Page https://dixy.ru/catalog/myaso-yaytso/?sPAGEN_1=0 answered 200
+2022-02-19 23:42:34,108 dixy_get INFO:File data/myaso-yaytso_0 writing on disk
+2022-02-19 23:42:34,108 dixy_get ERROR:File  data/myaso-yaytso_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/myaso-yaytso_-1'
+2022-02-19 23:42:34,147 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:34,963 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/myaso-yaytso/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:42:34,965 dixy_get INFO:Page https://dixy.ru/catalog/myaso-yaytso/?sPAGEN_1=1 answered 200
+2022-02-19 23:42:34,965 dixy_get INFO:File data/myaso-yaytso_1 writing on disk
+2022-02-19 23:42:35,092 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:35,957 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/myaso-yaytso/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:42:35,968 dixy_get INFO:Page https://dixy.ru/catalog/myaso-yaytso/?sPAGEN_1=2 answered 200
+2022-02-19 23:42:35,968 dixy_get INFO:File data/myaso-yaytso_2 writing on disk
+2022-02-19 23:42:36,040 dixy_get INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:42:36,041 __main__ INFO:Read file data/myaso-yaytso_2
+2022-02-19 23:42:36,082 __main__ INFO:URL for category https://dixy.ru/catalog/krupy-zavtraki-spetsii/
+2022-02-19 23:42:36,082 __main__ INFO:Base file name for write https://dixy.ru/catalog/krupy-zavtraki-spetsii/
+2022-02-19 23:42:36,083 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:36,967 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/krupy-zavtraki-spetsii/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:42:36,968 dixy_get INFO:Page https://dixy.ru/catalog/krupy-zavtraki-spetsii/?sPAGEN_1=0 answered 200
+2022-02-19 23:42:36,969 dixy_get INFO:File data/krupy-zavtraki-spetsii_0 writing on disk
+2022-02-19 23:42:36,969 dixy_get ERROR:File  data/krupy-zavtraki-spetsii_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/krupy-zavtraki-spetsii_-1'
+2022-02-19 23:42:37,017 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:37,944 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/krupy-zavtraki-spetsii/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:42:37,945 dixy_get INFO:Page https://dixy.ru/catalog/krupy-zavtraki-spetsii/?sPAGEN_1=1 answered 200
+2022-02-19 23:42:37,946 dixy_get INFO:File data/krupy-zavtraki-spetsii_1 writing on disk
+2022-02-19 23:42:38,078 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:39,090 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/krupy-zavtraki-spetsii/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:42:39,093 dixy_get INFO:Page https://dixy.ru/catalog/krupy-zavtraki-spetsii/?sPAGEN_1=2 answered 200
+2022-02-19 23:42:39,093 dixy_get INFO:File data/krupy-zavtraki-spetsii_2 writing on disk
+2022-02-19 23:42:39,176 dixy_get INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:42:39,177 __main__ INFO:Read file data/krupy-zavtraki-spetsii_2
+2022-02-19 23:42:39,223 __main__ INFO:URL for category https://dixy.ru/catalog/konditerskie-izdeliya/
+2022-02-19 23:42:39,223 __main__ INFO:Base file name for write https://dixy.ru/catalog/konditerskie-izdeliya/
+2022-02-19 23:42:39,224 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:40,239 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/konditerskie-izdeliya/?sPAGEN_1=0 HTTP/1.1" 200 None
+2022-02-19 23:42:40,284 dixy_get INFO:Page https://dixy.ru/catalog/konditerskie-izdeliya/?sPAGEN_1=0 answered 200
+2022-02-19 23:42:40,285 dixy_get INFO:File data/konditerskie-izdeliya_0 writing on disk
+2022-02-19 23:42:40,285 dixy_get ERROR:File  data/konditerskie-izdeliya_-1  not found erase or not must exist [Errno 2] No such file or directory: 'data/konditerskie-izdeliya_-1'
+2022-02-19 23:42:40,434 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:41,265 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/konditerskie-izdeliya/?sPAGEN_1=1 HTTP/1.1" 200 None
+2022-02-19 23:42:41,271 dixy_get INFO:Page https://dixy.ru/catalog/konditerskie-izdeliya/?sPAGEN_1=1 answered 200
+2022-02-19 23:42:41,272 dixy_get INFO:File data/konditerskie-izdeliya_1 writing on disk
+2022-02-19 23:42:41,386 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): dixy.ru:443
+2022-02-19 23:42:42,306 urllib3.connectionpool DEBUG:https://dixy.ru:443 "GET /catalog/konditerskie-izdeliya/?sPAGEN_1=2 HTTP/1.1" 200 None
+2022-02-19 23:42:42,318 dixy_get INFO:Page https://dixy.ru/catalog/konditerskie-izdeliya/?sPAGEN_1=2 answered 200
+2022-02-19 23:42:42,318 dixy_get INFO:File data/konditerskie-izdeliya_2 writing on disk
+2022-02-19 23:42:42,400 dixy_get INFO:Catalog is over, stop downloading go parse
+2022-02-19 23:42:42,401 __main__ INFO:Read file data/konditerskie-izdeliya_2
